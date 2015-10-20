@@ -1,3 +1,5 @@
+# see http://shanshanding.github.io/projects/wsdroughts.html for exposition
+
 from random import randint
 from datetime import date
 
